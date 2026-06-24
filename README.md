@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sakthi Dheekshanya 👋
 
-<!--
-**Rhythm-67/Rhythm-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Msc Theoretical Computer Science Student  
+💻 Interested in Software Development,Machine Learning, Cybersecurity, Data Science & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Sleeping Barber OS Simulation
+- Implemented the Sleeping Barber synchronization problem
+- Used semaphores and OS concepts
+
+### 🔹 ChainCrypt
+- Blockchain-based Python application
+- Includes cryptography, networking and GUI components
+
+### 🔹 Startup Profit Analytics
+- R Shiny dashboard for startup profit prediction
+- Data visualization and regression analysis
+
+### 🔹 Markowitz Portfolio Optimizer
+- Portfolio optimization project using Modern Portfolio Theory
+- Risk-return analysis and optimization
+
+---
+
+## 📫 Connect with me
+
+GitHub: https://github.com/Rhythm-67
+LinkedIn: https://www.linkedin.com/in/sakthi-dheekshanya-j-983320364/
