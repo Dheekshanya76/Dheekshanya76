@@ -27,5 +27,4 @@
 
 ## 📫 Connect with me
 
-GitHub: https://github.com/Rhythm-67
 LinkedIn: https://www.linkedin.com/in/sakthi-dheekshanya-j
