@@ -7,13 +7,13 @@
 
 ## 🚀 Projects
 
-### 🔹 Sleeping Barber OS Simulation
-- Implemented the Sleeping Barber synchronization problem
-- Used semaphores and OS concepts
+### 🔹 TrialTrace
+- Python based anamoly analysis dashboard
+- Implements Robust Z-Scores,Isolation forest,LOF,Bootstrap resampling. 
 
 ### 🔹 ChainCrypt
-- Blockchain-based Python application
 - Includes cryptography, networking and GUI components
+- Messaging p2p application
 
 ### 🔹 Startup Profit Analytics
 - R Shiny dashboard for startup profit prediction
